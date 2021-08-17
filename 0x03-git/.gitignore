@@ -1,0 +1,6 @@
+!/cmake/*.cmake
+!/tese/assemblytest.cmake
+*~
+*.swp
+*.pyc
+_pycache_
