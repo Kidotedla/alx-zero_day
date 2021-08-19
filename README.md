@@ -1,1 +1,1 @@
-**zero_day**_strong_
+**zero_day**
